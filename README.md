@@ -1,6 +1,9 @@
 # arp-ninja
 
-Hello I am Mahendra Mahawira. This is an open source project
+Hello I am Mahendra Mahawira.
+It seems I was the creator for this :)
+
+This is an open source project
 which is have a purpose to build an email responder application
 called arp-ninja.
 
