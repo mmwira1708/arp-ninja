@@ -9,12 +9,10 @@ The website support for this project is arpninja.com
 GOAL:
 Helping startups to have their own email marketing system
 
-=====================================================
-ATTENTION!!
-~ ~ ~ ~ Currently needs alot of collaborators ~ ~ ~ ~
-wanna join then send email to mmwira1708@gmail.com
-or skype mmwira1708. 
-=====================================================
+~~ ATTENTION ~~
+
+Currently needs alot of collaborators.
+wanna join then send email to mmwira1708@gmail.com or skype mmwira1708. 
 
 arpNinja v0.0.0 (kick off)
 Features:
